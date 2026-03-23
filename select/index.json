@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "Hell You Call A Dream",
+  "base_artist": "The Warning",
+  "createdAt": "2026-03-23T21:50:12.164038Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hell You Call A Dream",
+      "artist": "The Warning",
+      "has_synced": true,
+      "path": "select/01_Hell_You_Call_A_Dream_The_Warning.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hell You Call A Dream",
+      "artist": "The Warning",
+      "has_synced": true,
+      "path": "select/02_Hell_You_Call_A_Dream_The_Warning.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hell You Call A Dream",
+      "artist": "The Warning",
+      "has_synced": true,
+      "path": "select/03_Hell_You_Call_A_Dream_The_Warning.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hell You Call A Dream",
+      "artist": "The Warning",
+      "has_synced": true,
+      "path": "select/04_Hell_You_Call_A_Dream_The_Warning.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hell You Call A Dream",
+      "artist": "The Warning",
+      "has_synced": true,
+      "path": "select/05_Hell_You_Call_A_Dream_The_Warning.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hell You Call A Dream (Official Lyric Video)",
+      "artist": "The Warning",
+      "has_synced": true,
+      "path": "select/06_Hell_You_Call_A_Dream_(Official_Lyric_Video)_The_Warning.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hell You Call A Dream (Live from Auditorio Nacional, CDMX)",
+      "artist": "The Warning",
+      "has_synced": false,
+      "path": "select/07_Hell_You_Call_A_Dream_(Live_from_Auditorio_Nacional,_CDMX)_The_Warning.txt"
+    }
+  ]
+}
